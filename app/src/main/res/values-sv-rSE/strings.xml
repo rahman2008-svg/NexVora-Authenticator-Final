@@ -434,9 +434,6 @@
     <string name="country_netherlands">Nederländerna</string>
     <string name="email_us">Skriv ett mejl</string>
     <string name="visit_website">Besök vår webbplats</string>
-    <string name="about_support">Support</string>
-    <string name="support_rate">Betygsätt</string>
-    <string name="support_rate_description">Stöd oss genom att lämna en recension i Google Play Store</string>
     <string name="webview_error">Denna enhet stöder inte WebView, vilket krävs för att visa ändringsloggen och licensen. Den saknar en systemkomponent.</string>
     <string name="email">E-post</string>
     <string name="time_sync_warning_title">Automatisk tidssynkronisering</string>

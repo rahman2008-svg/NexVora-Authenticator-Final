@@ -434,9 +434,6 @@
     <string name="country_netherlands">Nederland</string>
     <string name="email_us">Schrijf een e-mailbericht</string>
     <string name="visit_website">Bekijk de website</string>
-    <string name="about_support">Ondersteuning</string>
-    <string name="support_rate">Beoordeel</string>
-    <string name="support_rate_description">Steun ons door een review in de Google Play Store achter te laten</string>
     <string name="webview_error">Dit apparaat ondersteunt geen webview, welke nodig is om de wijzigingen te bekijken. Het mist een systeemcomponent.</string>
     <string name="email">E-mailadres</string>
     <string name="time_sync_warning_title">Automatische tijdsynchronisatie</string>

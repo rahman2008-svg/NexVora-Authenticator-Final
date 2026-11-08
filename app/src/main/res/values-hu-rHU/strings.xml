@@ -433,9 +433,6 @@
     <string name="country_netherlands">Hollandia</string>
     <string name="email_us">Írjon egy e-mailt</string>
     <string name="visit_website">Keresse fel weboldalunkat</string>
-    <string name="about_support">Támogatás</string>
-    <string name="support_rate">Értékelés</string>
-    <string name="support_rate_description">Támogasson minket azzal, hogy értékelést ír a Google Play Áruházban</string>
     <string name="webview_error">Ez az eszköz nem támogatja a webes nézetet, amely szükséges a változásnapló és a licenc megtekintéséhez. Ez egy hiányzó rendszerösszetevő.</string>
     <string name="email">E-mail</string>
     <string name="time_sync_warning_title">Automatikus időszinkronizálás</string>

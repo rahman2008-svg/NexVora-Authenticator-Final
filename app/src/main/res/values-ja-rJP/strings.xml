@@ -358,9 +358,6 @@
     <string name="country_netherlands">オランダ</string>
     <string name="email_us">メールを書く</string>
     <string name="visit_website">ウェブサイトを表示</string>
-    <string name="about_support">サポート</string>
-    <string name="support_rate">評価する</string>
-    <string name="support_rate_description">Google Play ストアにレビューを投稿してサポートしてください</string>
     <string name="webview_error">このデバイスはWebビューをサポートしていません。これはchangelogとライセンスを表示するために必要です。システムコンポーネントがありません。
 このデバイスは、更新履歴やライセンスを表示するために必要なWebビューをサポートしていません。システムコンポーネントが不足しています。</string>
     <string name="email">メール</string>

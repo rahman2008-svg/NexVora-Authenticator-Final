@@ -432,9 +432,6 @@
     <string name="country_netherlands">Olanda</string>
     <string name="email_us">Scrie un e-mail</string>
     <string name="visit_website">Vizitează site-ul nostru web</string>
-    <string name="about_support">Asistență</string>
-    <string name="support_rate">Evaluează</string>
-    <string name="support_rate_description">Sprijiniți-ne lăsând o recenzie în Google Play</string>
     <string name="webview_error">Acest dispozitiv nu acceptă vizualizare web, care este necesară pentru a vizualiza jurnalul modificărilor și licența. Îi lipsește o componentă de sistem.</string>
     <string name="email">Email</string>
     <string name="time_sync_warning_title">Sincronizare automată a timpului</string>

@@ -456,9 +456,6 @@
     <string name="country_netherlands">Nizozemsko</string>
     <string name="email_us">Pošlete nám e-mail</string>
     <string name="visit_website">Navštivte náš web</string>
-    <string name="about_support">Podpora</string>
-    <string name="support_rate">Ohodnoťte aplikaci</string>
-    <string name="support_rate_description">Podpořte nás napsáním recenze v obchodě Google Play</string>
     <string name="webview_error">Vaše zařízení nepodporuje WebView, které je nutné pro zobrazení seznamu změn a licence. Tato komponenta zřejmě chybí v systému.</string>
     <string name="email">E-mail</string>
     <string name="time_sync_warning_title">Automatická synchronizace času</string>

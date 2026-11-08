@@ -396,9 +396,6 @@
     <string name="country_netherlands">Nederland</string>
     <string name="email_us">Skriv en e-post</string>
     <string name="visit_website">Besøk nettsiden våres</string>
-    <string name="about_support">Støtte</string>
-    <string name="support_rate">Ranger</string>
-    <string name="support_rate_description">Støtt oss ved å skrive en anmeldelse i Google Play Butikk</string>
     <string name="email">E-post</string>
     <string name="backup_system_builtin">NexVora\' innebygde automatiske sikkerhetskopier</string>
     <string name="backup_system_android">System for Android-sikkerhetskopiering i skyen</string>

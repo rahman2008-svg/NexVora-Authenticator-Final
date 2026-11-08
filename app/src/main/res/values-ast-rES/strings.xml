@@ -373,9 +373,6 @@
     <string name="country_netherlands">Países Baxos</string>
     <string name="email_us">Escribir un correu electrónicu</string>
     <string name="visit_website">Visitar el sitiu web</string>
-    <string name="about_support">Apoyu</string>
-    <string name="support_rate">Valorar</string>
-    <string name="support_rate_description">Apóyanos pente una reseña na Play Store de Google</string>
     <string name="webview_error">Esti preséu nun ye compatible con WebView, que ye necesariu pa visualizar el rexistru de cambeos ya la llicencia. Al sistema fálta-y un componente.</string>
     <string name="email">Corréu electrónicu</string>
     <string name="time_sync_warning_title">Sincronización automática de la hora</string>

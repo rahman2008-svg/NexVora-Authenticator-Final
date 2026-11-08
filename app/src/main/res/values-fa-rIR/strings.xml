@@ -256,9 +256,6 @@
     <string name="country_netherlands">هلند</string>
     <string name="email_us">ایمیل بنویسید</string>
     <string name="visit_website">از وب‌سایت ما دیدن کنید</string>
-    <string name="about_support">پشتیبانی</string>
-    <string name="support_rate">امتیاز</string>
-    <string name="support_rate_description">ما را با نظر دادن در فروشگاه گوگل پشتیبانی کنید</string>
     <string name="email">ایمیل</string>
     <string name="time_sync_warning_title">همگام سازی خودکار</string>
     <string name="time_sync_warning_message">این برنامه نیاز به زمان دقیق برای ساختن کد جدید دارد. تفاوت چند ثانیه‌ای ممکن است باعث ایجاد کد اشتباه شود. به نظر می‌رسد ساعت دستگاه شما به صورت خودکار تنظیم نشده است. آیا میخواهید این کار را انجام دهید؟</string>

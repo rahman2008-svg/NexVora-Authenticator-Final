@@ -424,9 +424,6 @@
     <string name="country_netherlands">Hà Lan</string>
     <string name="email_us">Gửi thư</string>
     <string name="visit_website">Trang chủ</string>
-    <string name="about_support">Hỗ trợ</string>
-    <string name="support_rate">Đánh giá</string>
-    <string name="support_rate_description">Đánh giá trên Cửa hàng Google Play</string>
     <string name="webview_error">Thiết bị này không hỗ trợ WebView, nó là cần thiết để xem changelog và giấy phép. Đây là một thành phần hệ thống.</string>
     <string name="email">Email</string>
     <string name="time_sync_warning_title">Tự đồng bộ thời gian</string>

@@ -434,9 +434,6 @@
     <string name="country_netherlands">Madalmaad</string>
     <string name="email_us">Saada e-kiri</string>
     <string name="visit_website">Külasta meie veebisaiti</string>
-    <string name="about_support">Kasutajatugi</string>
-    <string name="support_rate">Hinda meie rakendust</string>
-    <string name="support_rate_description">Toeta meid koostades arvustuse Google Play rakendustepoes</string>
     <string name="webview_error">Selles nutiseadmes puudub webview-teegi tugi. Seda on vaja muudatuste logi ja litsentside kuvamiseks. Tegemist on operatsioonisüsteemi komponendiga.</string>
     <string name="email">E-post</string>
     <string name="time_sync_warning_title">Kellaaja automaatne sünkroniseerimine</string>

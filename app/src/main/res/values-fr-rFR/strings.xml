@@ -434,9 +434,6 @@
     <string name="country_netherlands">Pays-Bas</string>
     <string name="email_us">Écrire un email</string>
     <string name="visit_website">Visiter notre site internet</string>
-    <string name="about_support">Soutien</string>
-    <string name="support_rate">Noter</string>
-    <string name="support_rate_description">Soutenez-nous en laissant un avis sur le Google Play Store</string>
     <string name="webview_error">Cet appareil ne supporte pas web view, qui est nécessaire pour voir l\'historique des modifications et la licence. Un composant système est manquant.</string>
     <string name="email">Email</string>
     <string name="time_sync_warning_title">Synchronisation automatique de l\'heure</string>

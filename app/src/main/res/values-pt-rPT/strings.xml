@@ -433,9 +433,6 @@
     <string name="country_netherlands">Holanda</string>
     <string name="email_us">Escreva um e-mail</string>
     <string name="visit_website">Visite o nosso site</string>
-    <string name="about_support">Suporte</string>
-    <string name="support_rate">Avaliar</string>
-    <string name="support_rate_description">Apoie-nos deixando uma avaliação na Google Play Store</string>
     <string name="webview_error">Este dispositivo não suporta a vista web, necessária para ver o registo de alterações e a licença. Falta-lhe um componente do sistema.</string>
     <string name="email">Email</string>
     <string name="time_sync_warning_title">Sincronização de tempo automática</string>

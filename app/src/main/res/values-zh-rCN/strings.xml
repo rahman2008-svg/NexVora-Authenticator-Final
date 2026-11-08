@@ -423,9 +423,6 @@
     <string name="country_netherlands">荷兰</string>
     <string name="email_us">发送电子邮件</string>
     <string name="visit_website">访问我们的网站</string>
-    <string name="about_support">支持</string>
-    <string name="support_rate">评分</string>
-    <string name="support_rate_description">通过在 Google Play 商店留下评论来支持我们</string>
     <string name="webview_error">此设备不支持 webview，这是查看更新日志和许可证所必需的。你的系统缺少这一组件。</string>
     <string name="email">电子邮件</string>
     <string name="time_sync_warning_title">自动同步时间</string>

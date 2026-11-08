@@ -353,9 +353,6 @@
     <string name="country_netherlands">നെതർലാൻഡ്സ്</string>
     <string name="email_us">ഒരു ഇ - മെയിൽ എഴുതുക</string>
     <string name="visit_website">ഞങ്ങളുടെ വെബ്സൈറ്റ് സന്ദർശിക്കുക</string>
-    <string name="about_support">പിന്തുണ</string>
-    <string name="support_rate">നിരക്ക്</string>
-    <string name="support_rate_description">Google Play Store-ൽ ഒരു അവലോകനം നൽകി ഞങ്ങളെ പിന്തുണയ്ക്കുക</string>
     <string name="webview_error">ഈ ഉപകരണം വെബ് കാഴ്‌ചയെ പിന്തുണയ്‌ക്കുന്നില്ല, ഇത് ചേഞ്ച്‌ലോഗും ലൈസൻസും കാണുന്നതിന് ആവശ്യമാണ്. ഇതിന് ഒരു സിസ്റ്റം ഘടകം നഷ്‌ടമായിരിക്കുന്നു.</string>
     <string name="email">ഇമെയിൽ</string>
     <string name="time_sync_warning_title">യാന്ത്രിക സമന്വയം</string>

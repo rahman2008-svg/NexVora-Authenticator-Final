@@ -434,9 +434,6 @@
     <string name="country_netherlands">Països Baixos</string>
     <string name="email_us">Escriu un correu electrònic</string>
     <string name="visit_website">Visiteu el nostre lloc web</string>
-    <string name="about_support">Assistència</string>
-    <string name="support_rate">Valora</string>
-    <string name="support_rate_description">Ajuda\'ns deixant un comentari a la Google Play Store</string>
     <string name="webview_error">Aquest dispositiu no suporta \'web view\', que es necessari per a veure el registre de canvis i la llicència. Falta un component de sistema.</string>
     <string name="email">Correu electrònic</string>
     <string name="time_sync_warning_title">Sincronització automàtica de temps</string>

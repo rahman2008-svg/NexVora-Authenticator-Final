@@ -434,9 +434,6 @@
     <string name="country_netherlands">Paesi Bassi</string>
     <string name="email_us">Scrivici una email</string>
     <string name="visit_website">Visita il nostro sito web</string>
-    <string name="about_support">Supporto</string>
-    <string name="support_rate">Votaci</string>
-    <string name="support_rate_description">Supportaci con una recensione nel Google Play Store</string>
     <string name="webview_error">Questo dispositivo non supporta la visualizzazione web, necessaria per visualizzare il changelog e la licenza. Manca un componente di sistema.</string>
     <string name="email">Email</string>
     <string name="time_sync_warning_title">Sincronizzazione automatica dell\'ora</string>

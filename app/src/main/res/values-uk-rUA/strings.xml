@@ -456,9 +456,6 @@
     <string name="country_netherlands">Нідерланди</string>
     <string name="email_us">Написати листа</string>
     <string name="visit_website">Відвідати наш веб-сайт</string>
-    <string name="about_support">Підтримка</string>
-    <string name="support_rate">Оцінити</string>
-    <string name="support_rate_description">Підтримайте нас, залишивши відгук на Google Play Store</string>
     <string name="webview_error">Цей пристрій не підтримує веб-перегляд, необхідний для перегляду журналу змін і ліцензії. У ньому відсутній системний компонент.</string>
     <string name="email">Ел. пошта</string>
     <string name="time_sync_warning_title">Автоматична синхронізація часу</string>

@@ -434,9 +434,6 @@
     <string name="country_netherlands">Ολλανδία</string>
     <string name="email_us">Γράψτε ένα email</string>
     <string name="visit_website">Επισκεφτείτε την ιστοσελίδα μας</string>
-    <string name="about_support">Υποστήριξη</string>
-    <string name="support_rate">Βαθμολόγηση</string>
-    <string name="support_rate_description">Υποστηρίξτε μας αφήνοντας μια κριτική στο Google Play Store</string>
     <string name="webview_error">Αυτή η συσκευή δεν υποστηρίζει προβολή ιστού, η οποία είναι απαραίτητη για την προβολή του αρχείου αλλαγών και της άδειας. Λείπει ένα στοιχείο συστήματος.</string>
     <string name="email">Email</string>
     <string name="time_sync_warning_title">Χρόνος αυτόματου συγχρονισμού</string>

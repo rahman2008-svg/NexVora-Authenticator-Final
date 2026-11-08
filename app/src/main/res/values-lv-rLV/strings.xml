@@ -444,9 +444,6 @@
     <string name="country_netherlands">Nīderlande</string>
     <string name="email_us">Rakstīt e-pastu</string>
     <string name="visit_website">Apmeklēt mūsu vietni</string>
-    <string name="about_support">Atbalsts</string>
-    <string name="support_rate">Novērtēt</string>
-    <string name="support_rate_description">Mūs var atbalstīt ar pārskatu Google Play veikalā</string>
     <string name="webview_error">Šajā ierīcē netiek atbalstīts tīmekļa skats, kas ir nepieciešams, lai apskatīt izmaiņu sarakstu un licenci. Tam trūkst sistēmas sastāvdaļas.</string>
     <string name="email">E-pasts</string>
     <string name="time_sync_warning_title">Automātiska laika sinhronizēšana</string>

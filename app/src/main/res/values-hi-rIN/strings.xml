@@ -332,9 +332,6 @@
     <string name="country_netherlands">नीदरलैंड</string>
     <string name="email_us">ईमेल लिखें</string>
     <string name="visit_website">हमारी वेबसाइट पर जाएँ</string>
-    <string name="about_support">सहायता</string>
-    <string name="support_rate">रेट करें</string>
-    <string name="support_rate_description">गूगल प्ले स्टोर में एक समीक्षा छोड़कर हमारा समर्थन करें</string>
     <string name="webview_error">यह उपकरण वेब दृश्य का समर्थन नहीं करता है, जो चैंज और लाइसेंस देखने के लिए आवश्यक है। इसमें एक सिस्टम घटक गायब है।</string>
     <string name="email">ईमेल</string>
     <string name="time_sync_warning_title">स्वचालित समय सिंक</string>

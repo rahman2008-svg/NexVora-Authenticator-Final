@@ -456,9 +456,6 @@
     <string name="country_netherlands">Нидерланды</string>
     <string name="email_us">Написать эл. письмо</string>
     <string name="visit_website">Посетить сайт</string>
-    <string name="about_support">Поддержка</string>
-    <string name="support_rate">Оценить</string>
-    <string name="support_rate_description">Поддержите нас, оставив отзыв в Google Play</string>
     <string name="webview_error">Это устройство не поддерживает веб-просмотр, необходимый для просмотра списка изменений и лицензии, т.к. в нём отсутствует соответствующий системный компонент.</string>
     <string name="email">Адрес электронной почты</string>
     <string name="time_sync_warning_title">Автосинхронизация времени</string>

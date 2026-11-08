@@ -456,9 +456,6 @@
     <string name="country_netherlands">Holandia</string>
     <string name="email_us">Napisz wiadomość e-mail</string>
     <string name="visit_website">Odwiedź naszą stronę</string>
-    <string name="about_support">Wsparcie</string>
-    <string name="support_rate">Oceń</string>
-    <string name="support_rate_description">Wesprzyj nas zostawiając opinię w Sklepie Google Play</string>
     <string name="webview_error">To urządzenie nie wspiera widoku internetowego, który jest niezbędny do wyświetlenia listy zmian i licencji. To brakujący element systemu operacyjnego.</string>
     <string name="email">Adres e-mail</string>
     <string name="time_sync_warning_title">Automatyczna synchronizacja czasu</string>

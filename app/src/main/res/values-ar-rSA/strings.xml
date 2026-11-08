@@ -478,9 +478,6 @@
     <string name="country_netherlands">هولندا</string>
     <string name="email_us">اكتب بريد الكتروني</string>
     <string name="visit_website">زُر موقعنا</string>
-    <string name="about_support">الدعم</string>
-    <string name="support_rate">التقييم</string>
-    <string name="support_rate_description">ادعمنا بترك تقييم على متجر Google Play</string>
     <string name="webview_error">هذا الجهاز لا يدعم عرض الويب، والذي هو ضروري لعرض سجلّ التغيير و الرخصة. إنه مكوِّن نظام مفقود.</string>
     <string name="email">البريد الإلكتروني</string>
     <string name="time_sync_warning_title">مزامنة الوقت تلقائيًا</string>

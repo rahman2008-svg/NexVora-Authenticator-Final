@@ -433,9 +433,6 @@
     <string name="country_netherlands">Hollanda</string>
     <string name="email_us">Bir e-posta yazın</string>
     <string name="visit_website">Sitemizi ziyaret edin</string>
-    <string name="about_support">Destek</string>
-    <string name="support_rate">Puanla</string>
-    <string name="support_rate_description">Bizi desteklemek için Google Play Store\'da görüşünüzü bırakın</string>
     <string name="webview_error">Bu cihazda değişiklik günlüğünü ve lisansı görüntülemek için gerekli olan \"web view\" desteklenmiyor. Bu sistem bileşeni yerinde yok.</string>
     <string name="email">E-posta</string>
     <string name="time_sync_warning_title">Otomatik zaman senkronizasyonu</string>

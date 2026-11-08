@@ -321,9 +321,6 @@
     <string name="country_netherlands">Nyderlandai</string>
     <string name="email_us">Rašyti el. laišką</string>
     <string name="visit_website">Apsilankyti mūsų internetinėje svetainėje</string>
-    <string name="about_support">Palaikymas</string>
-    <string name="support_rate">Įvertinti</string>
-    <string name="support_rate_description">Palaikykite mus parašydami apžvalgą „Google Play“ parduotuvėje</string>
     <string name="webview_error">Šis įrenginys nepalaiko saityno rodinio, kuris yra būtinas norint rodyti keitinių žurnalą ir licenciją. Įrenginyje trūksta sisteminio komponento.</string>
     <string name="email">El. paštas</string>
     <string name="time_sync_warning_title">Automatinis laiko sinchronizavimas</string>

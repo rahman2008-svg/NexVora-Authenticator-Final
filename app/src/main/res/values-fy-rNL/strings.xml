@@ -434,9 +434,6 @@
     <string name="country_netherlands">Nederlân</string>
     <string name="email_us">Stjoer in e-mailberjocht</string>
     <string name="visit_website">Besykje ús website</string>
-    <string name="about_support">Stipe</string>
-    <string name="support_rate">Beoardielje</string>
-    <string name="support_rate_description">Stypje ús troch in beoardieling yn de Google Play Store efter te litten</string>
     <string name="webview_error">Dit apparaat stipet gjin webview, hokker nedich is om de wizigingen te besjen. It mist in systeemkomponint.</string>
     <string name="email">E-mailadres</string>
     <string name="time_sync_warning_title">Automatyske tiidsyngronisaasje</string>

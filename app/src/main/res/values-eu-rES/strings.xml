@@ -429,9 +429,6 @@
     <string name="country_netherlands">Herbehereak</string>
     <string name="email_us">Idatzi eposta bat</string>
     <string name="visit_website">Ikusi gure webgunea</string>
-    <string name="about_support">Laguntza</string>
-    <string name="support_rate">Baloratu</string>
-    <string name="support_rate_description">Lagundu gaitzazu Google Play Store-n balorazio bat eginez</string>
     <string name="webview_error">Gailu honetan ez dabil web view, eta beharrezkoa da aldaketen erregistroa eta lizentzia ikusteko. Sistemaren osagai bat da eta ez dago instalatuta.</string>
     <string name="email">Eposta</string>
     <string name="time_sync_warning_title">Denboraren sinkronizazio automatikoa</string>

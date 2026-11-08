@@ -445,9 +445,6 @@
     <string name="country_netherlands">Холандија</string>
     <string name="email_us">Напишите имејл</string>
     <string name="visit_website">Посетите наш веб-сајт</string>
-    <string name="about_support">Подршка</string>
-    <string name="support_rate">Оцени</string>
-    <string name="support_rate_description">Подржите нас тако што ћете оставити рецензију у Google Play продавници</string>
     <string name="webview_error">Овај уређај не подржава веб-приказ, који је неопходан за преглед евиденције промена и лиценце. Недостаје системска компонента.</string>
     <string name="email">Имејл</string>
     <string name="time_sync_warning_title">Аутоматска синхронизација времена</string>

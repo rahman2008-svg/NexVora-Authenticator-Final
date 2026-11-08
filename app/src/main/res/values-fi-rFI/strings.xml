@@ -425,9 +425,6 @@
     <string name="country_netherlands">Alankomaat</string>
     <string name="email_us">Lähetä sähköpostia</string>
     <string name="visit_website">Käy verkkosivuillamme</string>
-    <string name="about_support">Tuki</string>
-    <string name="support_rate">Arvostele</string>
-    <string name="support_rate_description">Tue meitä kirjoittamalla arvostelu Google Play Kauppaan</string>
     <string name="webview_error">Tämä laite ei tue WebView:tä, joka vaaditaan muutoslokin ja lisenssitietojen katselemiseksi. Siitä puuttuu järjestelmäkomponentti.</string>
     <string name="email">Sähköposti</string>
     <string name="time_sync_warning_title">Synkronoi aika automaattisesti</string>

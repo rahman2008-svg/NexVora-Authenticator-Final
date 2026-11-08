@@ -424,9 +424,6 @@
     <string name="country_netherlands">네덜란드</string>
     <string name="email_us">이메일 쓰기</string>
     <string name="visit_website">웹사이트 방문하기</string>
-    <string name="about_support">지원</string>
-    <string name="support_rate">평가</string>
-    <string name="support_rate_description">구글 플레이 스토어에서 리뷰를 남겨 응원해주세요</string>
     <string name="webview_error">이 기기는 변경 내역 및 라이선스를 보는 데 필요한 웹 뷰를 지원하지 않습니다. 시스템 구성 요소가 누락된 것입니다.</string>
     <string name="email">이메일</string>
     <string name="time_sync_warning_title">자동 시간 동기화</string>

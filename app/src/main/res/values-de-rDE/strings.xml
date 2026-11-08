@@ -434,9 +434,6 @@
     <string name="country_netherlands">Niederlande</string>
     <string name="email_us">Eine E-Mail schreiben</string>
     <string name="visit_website">Unsere Website besuchen</string>
-    <string name="about_support">Unterstützung</string>
-    <string name="support_rate">Bewerten</string>
-    <string name="support_rate_description">Unterstütze uns, indem du eine Bewertung im Google Play Store hinterlässt</string>
     <string name="webview_error">Dieses Gerät unterstützt kein WebView, das zum Anzeigen des Änderungsprotokolls und der Lizenz erforderlich ist. Es fehlt eine Systemkomponente.</string>
     <string name="email">E-Mail</string>
     <string name="time_sync_warning_title">Automatische Zeitsynchronisierung</string>

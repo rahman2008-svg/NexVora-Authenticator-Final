@@ -420,9 +420,6 @@
     <string name="country_netherlands">הולנד</string>
     <string name="email_us">כתוב מייל</string>
     <string name="visit_website">בקר באתר שלנו</string>
-    <string name="about_support">תמיכה</string>
-    <string name="support_rate">דירוג</string>
-    <string name="support_rate_description">תמכו בנו על ידי השארת ביקורת בחנות Google Play</string>
     <string name="webview_error">מכשיר זה אינו תומך בתצוגת אינטרנט, הנחוצה להצגת יומן השינויים והרישיון. חסר לו רכיב מערכת.</string>
     <string name="email">אימייל</string>
     <string name="time_sync_warning_title">סנכרון זמן אוטומטי</string>

@@ -423,9 +423,6 @@
     <string name="country_netherlands">荷蘭</string>
     <string name="email_us">撰寫郵件</string>
     <string name="visit_website">瀏覽我們的網站</string>
-    <string name="about_support">支持</string>
-    <string name="support_rate">評分</string>
-    <string name="support_rate_description">透過在Google Play商店留下評論來支持我們</string>
     <string name="webview_error">此裝置不支援瀏覽變更記錄與授權條款所需要的 WebView。缺少重要的系統元件。</string>
     <string name="email">電子郵件</string>
     <string name="time_sync_warning_title">自動同步時間</string>

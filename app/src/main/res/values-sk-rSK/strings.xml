@@ -392,9 +392,6 @@
     <string name="country_netherlands">Holandsko</string>
     <string name="email_us">Napísať e-mail</string>
     <string name="visit_website">Navštíviť našu webstránku</string>
-    <string name="about_support">Podpora</string>
-    <string name="support_rate">Ohodnotiť</string>
-    <string name="support_rate_description">Podporte nás zanechaním recenzie v obchode Google Play</string>
     <string name="email">E-mail</string>
     <string name="time_sync_warning_title">Automatická synchronizácia času</string>
     <string name="google_qr_export_unrelated">Nesúvisiaci QR kód bol nájdený. Pokúste sa reštartovať skener.</string>
