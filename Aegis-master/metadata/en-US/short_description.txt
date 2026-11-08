@@ -1,0 +1,1 @@
+Secure, offline two-factor authentication (TOTP/HOTP) with an encrypted vault

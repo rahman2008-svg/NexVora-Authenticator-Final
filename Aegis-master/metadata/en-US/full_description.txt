@@ -1,0 +1,5 @@
+NexVora Authenticator is a free, open source, offline two-factor authentication app by NexVora Lab's Ofc.
+
+Features: time-based (TOTP) and counter-based (HOTP) codes with SHA1/SHA256/SHA512, QR code scanning and manual entry, search, groups, favorites, an optional encrypted vault, biometric unlock, encrypted backups, and import/export (including Aegis-format vaults and other authenticator apps). No ads, no analytics, no internet access required.
+
+NexVora Authenticator is a modified version of Aegis Authenticator (GPL-3.0, (c) Beem Development and contributors). Source code: https://github.com/rahman2008-svg

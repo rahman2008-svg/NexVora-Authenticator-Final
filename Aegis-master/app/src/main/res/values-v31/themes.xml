@@ -1,0 +1,9 @@
+<resources>
+    <!-- NexVora splash screen (Android 12+): dark brand background behind the launcher icon -->
+    <style name="Theme.Aegis.Launch" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowSplashScreenBackground">#090D18</item>
+    </style>
+</resources>
